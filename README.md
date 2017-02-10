@@ -1,7 +1,7 @@
 #Bestandteile
-S- Login
+- (S) Login
 S- Dashboard
-E-- Menü
+-- (E) Menü
 E-- Nachrichtenübersicht
 E-- Terminübersicht
 E-- Aufgabenübersicht?
