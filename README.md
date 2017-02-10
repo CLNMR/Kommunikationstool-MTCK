@@ -32,8 +32,8 @@
 #Funktionsweise Nachrichten
 - Pro Channel eine XML-Datei
 - Sobald Enter:
--- 
--- in einer Firebase-Datenbank wird der Channelzähler inkrementiert
+  - x
+  - in einer Firebase-Datenbank wird der Channelzähler inkrementiert
 
 #Herausforderungen
 - Speichern & Echtzeitsynchronisation von Dateien
