@@ -1,32 +1,32 @@
 #Bestandteile
 - (S) Login
-S- Dashboard
--- (E) Menü
-E-- Nachrichtenübersicht
-E-- Terminübersicht
-E-- Aufgabenübersicht?
-S- Dateisystem
-E-- Öffentliche Dateien
-E-- Private Dateien
-E-- Geteilte Dateien
-S-- Datei hochladen
-S-- Datei bearbeiten?
-S- Nachrichtenbereich
-E-- Channels, denen ich angehöre
-E-- Andere Channels
-E-- Darstellung des Channels
-E-- Texteingabe
-S-- Verwaltung der Channels
-S- Terminbereich
-S-- Anstehende Termine
-S-- Genaue Terminansicht
-S-- Termin erstellen
-S- Einstellungen
-E-- Bereiche & Aufgaben
-E-- Pushnachrichten, Emails, ...
-E-- persönliche Informationen
-E-- Management von Mitgliedern
-E-- Dateisynchoronisation
+- (S) Dashboard
+  - (E) Menü
+  - (E) Nachrichtenübersicht
+  - (E) Terminübersicht
+  - (E) Aufgabenübersicht?
+- (S) Dateisystem
+  - (E) Öffentliche Dateien
+  - (E) Private Dateien
+  - (E) Geteilte Dateien
+  - (S) Datei hochladen
+  - (S) Datei bearbeiten?
+- (S) Nachrichtenbereich
+  - (E) Channels, denen ich angehöre
+  - (E) Andere Channels
+  - (E) Darstellung des Channels
+  - (E) Texteingabe
+  - (S) Verwaltung der Channels
+- (S) Terminbereich
+  - (S) Anstehende Termine
+  - (S) Genaue Terminansicht
+  - (S) Termin erstellen
+- (S) Einstellungen
+  - (E) Bereiche & Aufgaben
+  - (E) Pushnachrichten, Emails, ...
+  - (E) persönliche Informationen
+  - (E) Management von Mitgliedern
+  - (E) Dateisynchoronisation
 => 12 Seiten
 
 #Funktionsweise Nachrichten
