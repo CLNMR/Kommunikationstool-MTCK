@@ -1,4 +1,4 @@
-#Bestandteile
+# Bestandteile
 - (S) Login
 - (S) Dashboard
   - (E) Menü
@@ -29,17 +29,17 @@
   - (E) Dateisynchoronisation
 => 12 Seiten
 
-#Funktionsweise Nachrichten
+# Funktionsweise Nachrichten
 - Pro Channel eine XML-Datei
 - Sobald Enter:
   - x
   - in einer Firebase-Datenbank wird der Channelzähler inkrementiert
 
-#Herausforderungen
+# Herausforderungen
 - Speichern & Echtzeitsynchronisation von Dateien
 - Desktoppushnachrichten
 
-#Langfristige Funktionswünsche
+# Langfristige Funktionswünsche
 - Gruppieren von Channels
 - Nicht jeder kann immer direkt in jedem Channel posten (Rechtetrennung Lesen/Schreiben)
 - Nicht alle Nachrichten werden sofort geladen
